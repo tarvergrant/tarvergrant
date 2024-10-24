@@ -2,8 +2,8 @@
   <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNxNzh4N3NsZzZrZ2prZXU3a2xhN2VzaGI2d2xudGFubmV6ZW9vdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U3vXCoaXnjBIyrOl2L/giphy.gif" alt="Image saying '404 Caffeine Not Found'" width="175"></picture>
 
   <div id="badges">
-    <a href="https://x.com/granttarver"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" /></a>
-    <a href="https://www.youtube.com/@granttarver"><img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge" alt="X Badge" /></a>
+    <a href="https://www.linkedin.com/in/granttarver/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" /></a>
+    <a href="https://x.com/granttarver"><img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge" alt="X Badge" /></a>
     <a href="https://www.youtube.com/@granttarver"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube Badge" /></a>
   </div>
 </div>
